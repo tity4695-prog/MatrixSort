@@ -52,7 +52,7 @@ def main():
 
     sort_even_rows(matrix)
 
-    print("Матрица после сортировки:")
+    print("Результат:")
     print_matrix(matrix)
 
 
